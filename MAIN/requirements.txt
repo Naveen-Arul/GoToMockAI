@@ -1,0 +1,7 @@
+pyttsx3
+groq
+pdfminer.six
+python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart 
